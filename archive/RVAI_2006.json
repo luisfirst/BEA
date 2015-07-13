@@ -1,0 +1,209 @@
+
+{
+	"name": "2006",
+	"children" : [
+	{
+		"name": "Private Industries",
+		"children" : [
+			{	
+				"name": "Agriculture, forestry, fishing, and hunting",
+				"children" : [
+					{ "name" : "Farms", "value" : "102.4" },
+					{ "name": "Forestry, fishing, and related activities", "value": "30.9"}					
+				]
+			},
+			{
+				"name": "Mining",
+				"children" : [
+					{ "name": "Oil and gas extraction", "value" : "131.4" },
+					{ "name" : "Mining, except oil and gas", "value" : "71.0" },
+					{ "name" : "Support activities for mining", "value" : "42.1" }			
+				]
+			
+			},
+			{ "name" : "Utilities", "value" : "264.2" },
+			{ "name" : "Construction", "value" : "753.5" },
+			{
+				"name" : "Manufacturing",
+				"children" : [
+					{
+						"name" : "Durable goods",
+						"children" : [
+							{ "name" : "Wood products", "value" : "25.6" },
+							{ "name" : "Nonmetallic mineral products", "value" : "51.3" },
+							{ "name" : "Primary metals", "value" : "40.5" },
+							{ "name" : "Fabricated metal products", "value" : "157.8" },
+							{ "name" : "Machinery", "value" : "138.7" },
+							{ "name" : "Computer and electronic products", "value" : "179.5" },
+							{ "name" : "Electrical equipment, appliances, and components", "value" : "60.3" },
+							{ "name" : "Motor vehicles, bodies and trailers, and parts", "value" : "142.7" },
+							{ "name" : "Other transportation equipment", "value" : "102.8" },
+							{ "name" : "Furniture and related products", "value" : "40.3" },
+							{ "name" : "Miscellaneous manufacturing", "value" : "72.7" }
+						]
+					},
+					{	
+						"name" : "Nondurable goods",
+						"children" : [
+							{ "name" : "Food and beverage and tobacco products", "value" : "235.8" },
+							{ "name" : "Textile mills and textile product mills", "value" : "21.1" },
+							{ "name" : "Apparel and leather and allied products", "value" : "12.6" },
+							{ "name" : "Paper prodcuts", "value" : "68.5" },
+							{ "name" : "Printing and related support activities", "value" : "45.4" },
+							{ "name" : "Petroleum and coal products", "value" : "109.2" },
+							{ "name" : "Chemical products", "value" : "315.2" },
+							{ "name" : "Plastics and rubber products", "value" : "69.9" }
+						
+						]
+					
+					}			
+				]
+			
+			},
+			{ "name" : "Wholesale trade", "value" : "" },
+			{
+				"name" : "Retail trade",
+				"children" : [
+					{"name" : "Motor vehicles and parts dealers", "value" : "165.2" },
+					{ "name" : "Food and beverage stores", "value" : "145.9" },
+					{ "name" : "General merchandise stores", "value" : "126.3" },
+					{ "name" : "Other retail", "value" : "493.3" }
+				
+				]
+			},
+			{
+				"name" : "Transportation and warehousing",
+				"children" : [
+					{ "name" : "Air transportation", "value" : "69.4" },
+					{ "name" : "Rail transportation", "value" : "37.3" },
+					{ "name" : "Water transportation", "value" : "8.9" },
+					{ "name" : "Truck transportation", "value" : "133.6" },
+					{ "name" : "Transit and ground passenger transportation", "value" : "30.4" },
+					{ "name" : "Pipeline transportation", "value" : "13.0"},
+					{ "name" : "Other transportation and support activities", "value" : "103.7" },
+					{ "name" : "Warehousing and storage", "value" : "45.9" }
+				]
+			},
+			{
+				"name" : "Information",
+				"children" : [
+					{ "name" : "Publishing industries, except internet (includes software)", "value" : "166.4" },
+					{ "name" : "Motion picture and sound recording industries", "value" : "66.8" },
+					{ "name" : "Broadcasting and telecommunications", "value" : "323.1" },
+					{ "name" : "Data processing, internet publishing, and other information services", "value" : "79.4" }						
+				]
+			},
+			{
+				"name" : "Finance, insurance, and real estate, rental, and leasing", 
+				"children" : [
+					{
+						"name" : "Finance and insurance",
+						"children" : [
+							{ "name" : "Federal Reserve banks, credit intermediation, and related activities", "value" : "374.3" },
+							{ "name" : "Securities, commodity contracts, and investments", "value" : "238.5" },
+							{ "name" : "Insurance carriers and related activities", "value" : "366.3" },
+							{ "name" : "Funds, trusts, and other financial vehicles", "value" : "18.0" }
+						]					
+					},
+					{
+						"name" : "Real estate and rental leasing",
+						"children" : [
+							{ 
+								"name" : "Real estate",
+								"children" : [
+									{ "name" : "Housing", "value" : "1411.0" },
+									{ "name" : " Other real estate", "value" : "225.6" }
+								]							
+							},
+							{ "name" : "Rental and leasing services and lessors of intangible assets", "value" : "186.5" }
+						]					
+					}				
+				]			
+			},
+			{
+				"name" : "Professional and business services",
+				"children" : [
+					{
+						"name" : "Professional, scientific, and technical services",
+						"children": [
+							{ "name" : "Legal services", "value" : "224.4" },
+							{ "name" : "Computer systems design and related services", "value" : "149.5" },
+							{ "name" : "Miscellaneous professional, scientific, and technical services", "value" : "587.1"}												
+						]
+					},
+					{ "name" : "Management of companies and enterprises", "value" : "278.6" },
+					{
+						"name" : "Administrative and waste management services",
+						"children" : [
+							{ "name" : "Administrative and support services", "value" : "385.5" },
+							{ "name" : "Waste management and remediation services", "value" : "34.8"}						
+						]
+					}				
+				]			
+			},
+			{
+				"name" : "Educational services, health care, and social assistance",
+				"children" : [
+					{ "name" : "Educational services", "value" : "146.5" },
+					{
+						"name" : "Health care and social assistance",
+						"children" : [
+							{ "name" : "Ambulatory health care services", "value" : "465.2" },
+							{ "name" : "Hospitals", "value" : "306.1" },
+							{ "name" : "Nursing and residential care facilities", "value" : "116.0"},
+							{ "name" : "Social assistance", "value" : "83.6"}						
+						]
+					}
+				]
+			},
+			{
+				"name" : "Arts, entertainment, recreation, accomodation, and food services",
+				"children" : [
+					{
+						"name" : "Arts, entertainment, and recreation",
+						"children" : [
+							{ "name" : "Performing arts, spectator sports, museums, and related activities", "value" : "80.7" },
+							{ "name" : "Amusements, gambling, and recreation industries", "value" : "61.4" }						
+						]
+					},
+					{
+						"name" : "Accomodation and food services",
+						"children" : [
+							{ "name" : "Accomodation", "value" : "122.2" },
+							{ "name" : "Food services and drinking places", "value" : "307.9"}
+						]					
+					}
+				]			
+			},
+			{ "name" : "Other services, except governement", "value" : "370.1"}								
+		]
+	},
+	{
+		"name": "Government",
+		"children" : [
+			{
+				"name" : "Federal",
+				"children" : [
+					{
+						"name" : "General governement",
+						"children" : [
+							{ "name" : "National defense", "value" : "335.8" },
+							{ "name" : "Nondefense", "value" : "209.6" }						
+						]
+					},
+					{ "name" : "Government enterprises", "value" : "78.8"}				
+				]
+			},
+			{
+				"name" : "State and local",
+				"children" : [
+					{ "name" : "General government", "value" : "1264.1"},
+					{ "name" : "Government enterprises", "value" : "112.4"}				
+				]				
+			}
+		]
+	}
+	
+	]
+
+}

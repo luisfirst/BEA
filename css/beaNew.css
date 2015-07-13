@@ -1,0 +1,100 @@
+
+body {
+	
+	position: absolute;
+	width: 960px;
+	margin-top: 20px;
+}
+
+#header {
+	text-align:center;
+    padding:5px;
+	position: relative;
+	margin-top: 20px;
+	clear: both;
+}
+
+#footer {
+	clear:both;
+	text-align:center;
+    padding:5px;
+	position: relative;
+	bottom: 5px;
+	left: 0;
+	right: 0;
+	top: 10px;
+}
+
+#usermenus {
+	clear: both;
+	display: block;
+	position: relative;
+	width: 960px;
+	margin-left: 100px;
+	
+	margin-top: 0;
+	
+}
+
+#spacer {
+	
+	position: relative;
+	margin-top: 50px;
+}
+
+#menutext {
+
+	clear: both;
+	position: relative;
+	display: block;
+
+}
+
+#formid {
+
+	clear: both;
+	position: relative;
+	display: block;
+	
+	/*
+	margin-left: 80px;
+	margin-right: auto;
+	
+	*/
+
+}
+
+
+
+
+
+
+
+
+	
+	/*
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  
+  
+  
+  */
+
+
+/*
+select {
+  position: absolute;
+  right: 10px;
+  top: 100px;
+}
+*/
+
+.node {
+  border: solid 1px white;
+  font: 10px sans-serif;
+  line-height: 12px;
+  overflow: hidden;
+  position: absolute;
+  text-indent: 2px;
+}
+

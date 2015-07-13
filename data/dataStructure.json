@@ -1,0 +1,209 @@
+
+{
+	"name": "year",
+	"children" : [
+	{
+		"name": "Private Industries",
+		"children" : [
+			{	
+				"name": "Agriculture, forestry, fishing, and hunting",
+				"children" : [
+					{ "name" : "Farms", "value" : "" },
+					{ "name": "Forestry, fishing, and related activities", "value": ""}					
+				]
+			},
+			{
+				"name": "Mining",
+				"children" : [
+					{ "name": "Oil and gas extraction", "value" : "" },
+					{ "name" : "Mining, except oil and gas", "value" : "" },
+					{ "name" : "Support activities for mining", "value" : "" }			
+				]
+			
+			},
+			{ "name" : "Utilities", "value" : "" },
+			{ "name" : "Construction", "value" : "" },
+			{
+				"name" : "Manufacturing",
+				"children" : [
+					{
+						"name" : "Durable goods",
+						"children" : [
+							{ "name" : "Wood products", "value" : "" },
+							{ "name" : "Nonmetallic mineral products", "value" : "" },
+							{ "name" : "Primary metals", "value" : "" },
+							{ "name" : "Fabricated metal products", "value" : "" },
+							{ "name" : "Machinery", "value" : "" },
+							{ "name" : "Computer and electronic products", "value" : "" },
+							{ "name" : "Electrical equipment, appliances, and components", "value" : "" },
+							{ "name" : "Motor vehicles, bodies and trailers, and parts", "value" : "" },
+							{ "name" : "Other transportation equipment", "value" : "" },
+							{ "name" : "Furniture and related products", "value" : "" },
+							{ "name" : "Miscellaneous manufacturing", "value" : "" }
+						]
+					},
+					{	
+						"name" : "Nondurable goods",
+						"children" : [
+							{ "name" : "Food and beverage and tobacco products", "value" : "" },
+							{ "name" : "Textile mills and textile product mills", "value" : "" },
+							{ "name" : "Apparel and leather and allied products", "value" : "" },
+							{ "name" : "Paper prodcuts", "value" : "" },
+							{ "name" : "Printing and related support activities", "value" : "" },
+							{ "name" : "Petroleum and coal products", "value" : "" },
+							{ "name" : "Chemical products", "value" : "" },
+							{ "name" : "Plastics and rubber products", "value" : "" }
+						
+						]
+					
+					}			
+				]
+			
+			},
+			{ "name" : "Wholesale trade", "value" : "" },
+			{
+				"name" : "Retail trade",
+				"children" : [
+					{"name" : "Motor vehicles and parts dealers", "value" : "" },
+					{ "name" : "Food and beverage stores", "value" : "" },
+					{ "name" : "General merchandise stores", "value" : "" },
+					{ "name" : "Other retail", "value" : "" }
+				
+				]
+			},
+			{
+				"name" : "Transportation and warehousing",
+				"children" : [
+					{ "name" : "Air transportation", "value" : "" },
+					{ "name" : "Rail transportation", "value" : "" },
+					{ "name" : "Water transportation", "value" : "" },
+					{ "name" : "Truck transportation", "value" : "" },
+					{ "name" : "Transit and ground passenger transportation", "value" : "" },
+					{ "name" : "Pipeline transportation", "value" : ""},
+					{ "name" : "Other transportation and support activities", "value" : "" },
+					{ "name" : "Warehousing and storage", "value" : "" }
+				]
+			},
+			{
+				"name" : "Information",
+				"children" : [
+					{ "name" : "Publishing industries, except internet (includes software)", "value" : "" },
+					{ "name" : "Motion picture and sound recording industries", "value" : "" },
+					{ "name" : "Broadcasting and telecommunications", "value" : "" },
+					{ "name" : "Data processing, internet publishing, and other information services", "value" : "" }						
+				]
+			},
+			{
+				"name" : "Finance, insurance, and real estate, rental, and leasing", 
+				"children" : [
+					{
+						"name" : "Finance and insurance",
+						"children" : [
+							{ "name" : "Federal Reserve banks, credit intermediation, and related activities", "value" : "" },
+							{ "name" : "Securities, commodity contracts, and investments", "value" : "" },
+							{ "name" : "Insurance carriers and related activities", "value" : "" },
+							{ "name" : "Funds, trusts, and other financial vehicles", "value" : "" }
+						]					
+					},
+					{
+						"name" : "Real estate and rental leasing",
+						"children" : [
+							{ 
+								"name" : "Real estate",
+								"children" : [
+									{ "name" : "Housing", "value" : "" },
+									{ "name" : " Other real estate", "value" : "" }
+								]							
+							},
+							{ "name" : "Rental and leasing services and lessors of intangible assets", "value" : "" }
+						]					
+					}				
+				]			
+			},
+			{
+				"name" : "Professional and business services",
+				"children" : [
+					{
+						"name" : "Professional, scientific, and technical services",
+						"children": [
+							{ "name" : "Legal services", "value" : "" },
+							{ "name" : "Computer systems design and related services", "value" : "" },
+							{ "name" : "Miscellaneous professional, scientific, and technical services", "value" : ""}												
+						]
+					},
+					{ "name" : "Management of companies and enterprises", "value" : "" },
+					{
+						"name" : "Administrative and waste management services",
+						"children" : [
+							{ "name" : "Administrative and support services", "value" : "" },
+							{ "name" : "Waste management and remediation services", "value" : ""}						
+						]
+					}				
+				]			
+			},
+			{
+				"name" : "Educational services, health care, and social assistance",
+				"children" : [
+					{ "name" : "Educational services", "value" : "" },
+					{
+						"name" : "Health care and social assistance",
+						"children" : [
+							{ "name" : "Ambulatory health care services", "value" : "" },
+							{ "name" : "Hospitals", "value" : "" },
+							{ "name" : "Nursing and residential care facilities", "value" : ""},
+							{ "name" : "Social assistance", "value" : ""}						
+						]
+					}
+				]
+			},
+			{
+				"name" : "Arts, entertainment, recreation, accomodation, and food services",
+				"children" : [
+					{
+						"name" : "Arts, entertainment, and recreation",
+						"children" : [
+							{ "name" : "Performing arts, spectator sports, museums, and related activities", "value" : "" },
+							{ "name" : "Amusements, gambling, and recreation industries", "value" : "" }						
+						]
+					},
+					{
+						"name" : "Accomodation and food services",
+						"children" : [
+							{ "name" : "Accomodation", "value" : "" },
+							{ "name" : "Food services and drinking places", "value" : ""}
+						]					
+					}
+				]			
+			},
+			{ "name" : "Other services, except governement", "value" : ""}								
+		]
+	},
+	{
+		"name": "Government",
+		"children" : [
+			{
+				"name" : "Federal",
+				"children" : [
+					{
+						"name" : "General governement",
+						"children" : [
+							{ "name" : "National defense", "value" : "" },
+							{ "name" : "Nondefense", "value" : "" }						
+						]
+					},
+					{ "name" : "Government enterprises", "value" : ""}				
+				]
+			},
+			{
+				"name" : "State and local",
+				"children" : [
+					{ "name" : "General government", "value" : ""},
+					{ "name" : "Government enterprises", "value" : ""}				
+				]				
+			}
+		]
+	}
+	
+	]
+
+}
